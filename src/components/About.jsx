@@ -30,19 +30,19 @@ const About = () => {
     <div id="about" className="min-h-screen w-screen">
       <div className="relative mb-8 mt-36 flex flex-col items-center gap-5">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          Welcome to Zentry
+          Welcome to Vatih Game Center
         </p>
 
         <AnimatedTitle
-          title="Disc<b>o</b>ver the world's <br /> largest shared <b>a</b>dventure"
+          title="Te<b>muka</b>n pet<b>ua</b>l<b>an</b>g<b>an</b><br />terbes<b>a</b>r di d<b>un</b>i<b>a</b>"
           containerClass="mt-5 !text-black text-center"
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
+          <p>Permainan Games begins—your life, menjadi MMORPG epik</p>
           <p className="text-gray-500">
-            Zentry unites every player from countless games and platforms, both
-            digital and physical, into a unified Play Economy
+            VGC menyatukan setiap pemain yang tak terhitung jumlahnya, baik
+            digital maupun fisik, menjadi permainan ekonomis yang terpadu
           </p>
         </div>
       </div>

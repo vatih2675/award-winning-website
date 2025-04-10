@@ -90,7 +90,7 @@ export const BentoCard = ({ src, title, description, isComingSoon }) => {
               }}
             />
             <TiLocationArrow className="relative z-20" />
-            <p className="relative z-20">coming soon</p>
+            <p className="relative z-20">segera...</p>
           </div>
         )}
       </div>
@@ -103,12 +103,12 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+          Ke dalam Lapisan Metagame
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+          Benamkan diri Anda dalam alam semesta yang kaya dan terus berkembang,
+          tempat rangkaian produk yang memukau bertemu menjadi pengalaman
+          hamparan yang saling terhubung di dunia Anda.
         </p>
       </div>
 
@@ -117,10 +117,10 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              <b>VATIH GAME CENTER</b>
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
+          description="Aplikasi metagame lintas-platform, mengubah aktivitas Anda di game Web2 dan Web3 menjadi petualangan yang bermanfaat."
           isComingSoon
         />
       </BentoTilt>
@@ -131,10 +131,10 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                <b>PLAYSTATION 3</b>
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+            description="Koleksi NFT yang terinspirasi dari anime dan game - IP yang disiapkan untuk ekspansi."
             isComingSoon
           />
         </BentoTilt>
@@ -144,10 +144,10 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                <b>PLAYSTATION 4</b>
               </>
             }
-            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
+            description="Pusat sosial gamifikasi, menambahkan dimensi permainan baru ke dalam interaksi sosial bagi komunitas Web3."
             isComingSoon
           />
         </BentoTilt>
@@ -157,18 +157,18 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+                <b>PLAYSTATION 5</b>
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
+            description="Agen AI lintas dunia - meningkatkan permainan Anda menjadi lebih menyenangkan dan produktif."
             isComingSoon
           />
         </BentoTilt>
 
         <BentoTilt className="bento-tilt_2">
           <div className="flex size-full flex-col justify-between bg-violet-300 p-5">
-            <h1 className="bento-title special-font max-w-64 text-black">
-              M<b>o</b>re co<b>m</b>ing s<b>o</b>on.
+            <h1 className="bento-title special-font max-w-66 text-black">
+              <b>Akan segera hadir lebih banyak lagi.</b>
             </h1>
 
             <TiLocationArrow className="m-5 scale-[5] self-end" />
